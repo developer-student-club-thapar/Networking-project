@@ -17,5 +17,5 @@ Coming soon
 - Read about different kind of servers and their uses, [link here](https://www.networkstraining.com/different-types-of-servers/)
 - **Checkpoint 2: Host simple FTP server and access it from another workstation, both connected to EACCESS!**
 - (Fun Read) [Read my blog post detailing the in's and out's of thapar wifi, EACCESS!](http://withme.skullzbones.com/blog/programming/revelations-about-the-thapar-wifi-and-the-utilities-regarding-them-eaccess-tu-lc-etc/) Try practically doing Revelation 1! _Highly recommended as it will be lot useful in future!_
-- **Checkpoint 3: ARP Poison your friend's PC and scare him with his search history** (Little difficult, take help if needed)
+- **Checkpoint 3: ARP Poison your friend's PC and scare them with search history!** (Little difficult, take help if needed)
 - More coming soon
