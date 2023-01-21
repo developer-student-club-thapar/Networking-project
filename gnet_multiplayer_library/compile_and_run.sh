@@ -1,0 +1,1 @@
+g++ $1 -I ./async-sockets/*.cpp gnet/*.cpp -pthread -o $1.out && ./$1.out
