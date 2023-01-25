@@ -1,9 +1,7 @@
-# Networking Project
+# Networking Project - Gnet (A multi-purpose networking library solution)
 
-# Plan
-What are we building?  How does it work? How do we know that it works?
-
-## First order of things**:**
+## Plan
+## First order of things: 
  
 - [x]  make README.md
 - [ ]  Break down client and server into separate classes
@@ -11,7 +9,7 @@ What are we building?  How does it work? How do we know that it works?
 - [ ]  Batch file for windows compatibility
 - [ ]  Maintaining data-integrity (prolly check-sums)
 
-## Future plans:
+## Features we want to inclucate eventually:
  
 - [ ]  Bifurcation b/w TCP and UDP
 
@@ -34,3 +32,6 @@ What are we building?  How does it work? How do we know that it works?
 
 ## Convention of code-style
 - *Akshat and Shubhankar, add points here*
+
+## Additional help citations
+We used asynchronous websockets from this [repo](https://github.com/eminfedar/async-sockets-cpp) by user [eminfedar](https://github.com/eminfedar) on github
