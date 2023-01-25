@@ -1,9 +1,23 @@
 # Networking Project
 
-## Idea/Vision
-Coming soon
+# Plan
+>What are we building?  How does it work? How do we know that it works?
+> 
+> 
+> ## First order of things**:**
+> 
+> - [x]  make README.md
+> - [ ]  Break down client and server into separate classes
+> - [ ]  Need to establish connection between client and server
+> - [ ]  Batch file for windows compatibility
+> - [ ]  Maintaining data-integrity (prolly check-sums)
+> 
+> ## Future plans:
+> 
+> - [ ]  Bifurcation b/w TCP and UDP
 
-### Roadmap:
+## Roadmap to follow if you wanna learn and contribute:
+
 - _Make up your mind for going though this journey! Very Important!_
 - Read [this](https://www.explainthatstuff.com/howcomputernetworkswork.html) and get basic idea about LAN/WAN/etc networks!
 - Know how a workstation communicates, ie the era of IP addressing! [link here](https://www.tutorialspoint.com/ipv4/ipv4_quick_guide.htm)
@@ -18,4 +32,6 @@ Coming soon
 - **Checkpoint 2: Host simple FTP server and access it from another workstation, both connected to EACCESS!**
 - (Fun Read) [Read my blog post detailing the in's and out's of thapar wifi, EACCESS!](http://withme.skullzbones.com/blog/programming/revelations-about-the-thapar-wifi-and-the-utilities-regarding-them-eaccess-tu-lc-etc/) Try practically doing Revelation 1! _Highly recommended as it will be lot useful in future!_
 - **Checkpoint 3: ARP Poison your friend's PC and scare them with search history!** (Little difficult, take help if needed)
-- More coming soon
+
+## Convention of code-style
+- *Akshat and Shubhankar, add points here*
