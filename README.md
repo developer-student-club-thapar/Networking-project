@@ -1,20 +1,19 @@
 # Networking Project
 
 # Plan
->What are we building?  How does it work? How do we know that it works?
-> 
-> 
-> ## First order of things**:**
-> 
-> - [x]  make README.md
-> - [ ]  Break down client and server into separate classes
-> - [ ]  Need to establish connection between client and server
-> - [ ]  Batch file for windows compatibility
-> - [ ]  Maintaining data-integrity (prolly check-sums)
-> 
-> ## Future plans:
-> 
-> - [ ]  Bifurcation b/w TCP and UDP
+What are we building?  How does it work? How do we know that it works?
+
+## First order of things**:**
+ 
+- [x]  make README.md
+- [ ]  Break down client and server into separate classes
+- [ ]  Need to establish connection between client and server
+- [ ]  Batch file for windows compatibility
+- [ ]  Maintaining data-integrity (prolly check-sums)
+
+## Future plans:
+ 
+- [ ]  Bifurcation b/w TCP and UDP
 
 ## Roadmap to follow if you wanna learn and contribute:
 
