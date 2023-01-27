@@ -13,6 +13,9 @@
  
 - [ ]  Bifurcation b/w TCP and UDP
 
+## Windows working examples
+If you're working on windows you wanna read these [working examples](https://www.tallyhawk.net/WinsockExamples/)
+
 ## Roadmap to follow if you wanna learn and contribute:
 
 - _Make up your mind for going though this journey! Very Important!_
